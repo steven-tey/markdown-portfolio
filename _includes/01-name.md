@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Steven Tey
+## This is my portfolio site
+### I love to code, write, and design
